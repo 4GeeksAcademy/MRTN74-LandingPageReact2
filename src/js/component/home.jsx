@@ -2,7 +2,7 @@ import React from "react";
 import {Navbar} from "./navbar.jsx"
 import {Jumbotron} from "./jumbotron.jsx"
 import {Cards} from "./cards.jsx"  
-import  "/workspaces/MRTN74-landingPageReact/src/styles/index.css"
+import  "/workspaces/MRTN74-LandingPageReact2/src/styles/index.css"
 import Footer from "./Footer.jsx";
 import "../../styles/index.css"
 //include images into your bundle
